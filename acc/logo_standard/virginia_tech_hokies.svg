@@ -1,6 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="492" height="235">
-<path fill="#f60" d="M0,0 h85.8l39.5,72l39,-72h327.6l-38.3,74.5h-82l-82.8,156h-88l82.8,-156h-71.5l-86.8,159.7z"/>
-<path fill="#fff" d="M10.2,6.5 h72.8l42.5,78l42.5,-78h313.3l-30.5,61.7h-82.5l-82.8,156h-74l82.8,-156h-85.8l-82.5,152.2z"/>
-<path fill="#600" d="M19.6,10.5h60.2l45.1,83.8l45.7,-83.5h301.7l-27,52.4h-82l-82.8,156h-61l82.8,-156h-97l-79.8,145.7l-105.9,-198.4z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="280"
+   height="200"
+   id="svg3625">
+  <metadata
+     id="metadata3637">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3635" />
+  <path
+     d="M 0,36.688354 H 48.83919 L 71.32344,77.67229 93.52307,36.688354 H 280 L 258.19882,79.09535 h -46.67615 l -47.13153,88.79853 h -50.09149 l 47.13154,-88.79853 h -40.69933 l -49.40842,90.90464 z"
+     id="path3627"
+     style="fill:#ff6600" />
+  <path
+     d="M 5.80606,40.388293 H 47.24538 L 71.43728,84.78756 95.62919,40.388293 H 273.96625 L 256.605,75.50925 h -46.96076 l -47.13153,88.79853 h -42.12239 l 47.13153,-88.79853 h -48.83919 l -46.96077,86.63549 z"
+     id="path3629"
+     style="fill:#ffffff" />
+  <path
+     d="M 11.15674,42.665178 H 45.42387 L 71.09575,90.36593 97.10917,42.835945 H 268.84326 L 253.47428,72.66315 H 206.79813 L 159.6666,161.46167 H 124.94409 L 172.07563,72.66315 H 116.86115 L 71.43728,155.59869 11.15674,42.665178 z"
+     id="path3631"
+     style="fill:#660000" />
 </svg>
