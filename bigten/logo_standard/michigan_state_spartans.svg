@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2226" sodipodi:version="0.32" inkscape:version="0.45.1" width="218.97321" height="300" version="1.0" sodipodi:docbase="C:\Documents and Settings\Dylan Kane\Desktop" sodipodi:docname="xxxx.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata id="metadata2231">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="280"
+   height="200"
+   id="svg2226">
+  <metadata
+     id="metadata2231">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs id="defs2229"/>
-  <sodipodi:namedview inkscape:window-height="998" inkscape:window-width="1122" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:zoom="0.58078269" inkscape:cx="345" inkscape:cy="149.07341" inkscape:window-x="154" inkscape:window-y="-4" inkscape:current-layer="svg2226"/>
-  <path style="fill:#006633;fill-opacity:1" d="M 0,267.35237 L 0,216.96429 L 70.637206,216.96429 L 70.814732,236.55134 L 150.50223,236.55134 L 150.67353,181.47321 L 38.004415,181.47321 L 0,143.47319 L 0,37.66519 L 37.669614,0 L 181.97771,0 L 218.97321,37.00001 L 218.97321,87.38839 L 151.00446,87.38839 L 151.00446,64.28571 L 70.643113,64.28571 L 70.814732,115.01116 L 181.41659,115.18055 L 218.63839,152.80571 L 218.63839,269.02635 L 187.67011,300 L 32.642528,300 L 0,267.35237 z " id="path2235" sodipodi:nodetypes="ccccccccccccccccccccccc"/>
+  <defs
+     id="defs2229" />
+  <path
+     d="m 70,178.23491 0,-33.59205 47.09147,0 0.11835,13.05803 53.125,0 0.1142,-36.71875 -75.112743,0 L 70,95.64879 70,25.110127 95.113076,0 l 96.205404,0 24.66365,24.666673 0,33.592257 -45.31249,0 0,-15.40179 -53.57423,0 0.11441,33.81697 73.73457,0.11292 24.81453,25.08344 0,77.48043 L 195.11341,200 91.761685,200 70,178.23491 z"
+     id="path2235"
+     style="fill:#006633;fill-opacity:1" />
 </svg>
