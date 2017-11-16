@@ -1,2 +1,5 @@
 script
-html
+polymer
+node_modules
+build
+bower_components
